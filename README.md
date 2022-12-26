@@ -1,3 +1,16 @@
+# Netflix Clone
+
+This is a Netflix clone built using React and Tailwind CSS.
+
+Features include:
+
+    Responsive design using Tailwind CSS
+    Movie and TV show data retrieved from the The Movie Database (TMDb) API
+
+To run this app locally, clone the repository and install the dependencies by running npm install. start the development server with npm start.
+
+Feel free to fork and modify the code as you see fit!
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
